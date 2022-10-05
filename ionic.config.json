@@ -1,0 +1,8 @@
+{
+  "name": "TiffinBox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c59b24a0"
+}
