@@ -1,0 +1,11 @@
+.tabBar {
+  height: 60px;
+}
+
+.homeIcon {
+  background-color: #bc0a0a;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 5px solid rgb(214, 214, 214);
+}
